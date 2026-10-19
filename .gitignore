@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 tavern_events.json
 tavern_saves/
+chat_history.db
